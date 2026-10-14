@@ -7,7 +7,7 @@
 - Tyler Tuo
 - Eason Xu
 
-##Mission Statement
+## Mission Statement
 Making budgeting easier.
 
 ## Problem Statement
